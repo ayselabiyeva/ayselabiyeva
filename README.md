@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayselabiyeva
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Java-Script
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me mail: ayselabiyeffam13@gmail.com
 
 <!---
