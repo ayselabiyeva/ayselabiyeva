@@ -17,7 +17,7 @@ I specialize in creating high-fidelity copies of industry-leading platforms and 
 | Project | Description | Live Demo |
 | :--- | :--- | :--- |
 | **☕ Starbucks UI** | A responsive reconstruction of the Starbucks web interface. | [**View Live**](https://starbucks-coral.vercel.app/) |
-| **🍕 Papa John's** | A UI-focused replica of the Papa John's ordering interface. | [**View Live**](https://vercel.com/ayselabiyevas-projects/papa-johns-pizza) |
+| **🍕 Papa John's** | A UI-focused replica of the Papa John's ordering interface. | [**View Live**](https://papa-johns-pizza.vercel.app/) |
 | **✅ To-Do List** | A functional task management application built with **React.js**. | [**View Live**](https://react-to-do-list-five-lemon.vercel.app/) |
 
 ---
